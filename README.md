@@ -13,7 +13,7 @@
   * Gestão de Demandas
   * Gestão de Tempo
   * Gestão de Custos
-  * Gestão de Risco(Em evolução)
+  * Gestão de Risco(Estou buscando evolução)
   * Gestão de Recursos
     * Matriz de Responsabilidades
-    * Matris Funcional
+    * Matriz Funcional
