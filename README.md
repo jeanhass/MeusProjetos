@@ -14,3 +14,6 @@
   * Gestão de Tempo
   * Gestão de Custos
   * Gestão de Risco(Em evolução)
+  * Gestão de Recursos
+    * Matriz de Responsabilidades
+    * Matris Funcional
