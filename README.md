@@ -1,5 +1,8 @@
 # MeusProjetos
-* SCRUM & XP
+* Metodologias Ágeis 
+  * SCRUM
+  * XP
+  * Lean
 * Analista de Negócios
 * Gestão de Projetos 
 * Status Report
