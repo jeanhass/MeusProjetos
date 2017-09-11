@@ -1,6 +1,5 @@
 # MeusProjetos
-* SCRUM
-* XP
+* SCRUM & XP
 * Analista de Negócios
 * Gestão de Projetos 
 * Status Report
